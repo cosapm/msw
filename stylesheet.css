@@ -16,12 +16,5 @@
 }
 
 .blog {
-	border-width: 1px;
-	border-style: solid;
-	border-radius: 3px;
-	border-color: #c5c5c5;
-	padding: 10px;
-	box-shadow: 1px 1px 1px 1px #eee;
-	transition: 0.3s;
-	margin: 10px 0 10px 0;
+   width: 700px;
 }
